@@ -4,7 +4,7 @@
 A complete analysis project of a Health Insurance company and its demands. Regression with AutoML
 
 <p align="center">
-  <img src="Capa.png" >
+  <img src="hi-cape.png" >
 </p>
 
 In this project, we will analyze the database of a Health Insurance company.
