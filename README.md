@@ -26,6 +26,6 @@ Follow the full notebook and Medium article below.
 
 
 # Link to the article of this project on Medium:
---- Auto ML: Analyzing and Predicting Health Insurance Data. => http://
+--- Auto ML: Analyzing and Predicting Health Insurance Data. => [http://](https://medium.com/@gabrielnduarte/auto-ml-analyzing-and-predicting-health-insurance-data-ea4d56c043a7)https://medium.com/@gabrielnduarte/auto-ml-analyzing-and-predicting-health-insurance-data-ea4d56c043a7
    
 
